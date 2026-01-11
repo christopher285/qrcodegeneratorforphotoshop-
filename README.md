@@ -1,4 +1,4 @@
-# qrcodegeneratorforphotoshop-
+# Qr code Generator for Photoshop -
 This is a qr code generator for photoshop run the script an you get a qr code ready to use!
 
 Download the jsx and do file open scripts browse and run.
